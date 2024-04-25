@@ -1,6 +1,7 @@
-<h1 align="center">Aplikasi UMKM Konveksi - Kelompok 10</h1>
+
 ![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <br>
+<h1 align="center">Aplikasi UMKM Konveksi - Kelompok 10</h1>
 <h3 align="center">Beranggotakan:</h3>
 <h3 align="center">Nur Adam Mahfudh - 4522210068  <br>
 Bahrudin Yusuf - 4522210076 <br>
